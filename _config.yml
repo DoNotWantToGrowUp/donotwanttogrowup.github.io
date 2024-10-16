@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Yiting Lin"
-  pronouns         : "Boy"  
+  pronouns         : #"Boy"  
   bio              : "Do not want to grow up!"
   location         : "China"
   employer         : "Hong Kong Baptist University"
