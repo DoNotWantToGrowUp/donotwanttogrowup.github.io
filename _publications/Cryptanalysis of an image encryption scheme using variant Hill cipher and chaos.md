@@ -8,7 +8,7 @@ date: 2024-04-15
 venue: 'Expert Systems with Applications'
 # slidesurl: 'https://donotwanttogrowup.github.io/YitingLin.github.io/files/slides1.pdf'
 paperurl: 'https://donotwanttogrowup.github.io/YitingLin.github.io/files/Cryptanalysis of an image encryption scheme using variant Hill cipher and chaos.pdf'
-citation: 'Wen H, Lin Y, Yang L, Chen R. Cryptanalysis of an image encryption scheme using variant Hill cipher and chaos. Expert Systems with Applications. 2024;250:123748. doi:10.1016/j.eswa.2024.123748
+citation: 'Wen, H., Lin, Y., Yang, L., & Chen, R. (2024). Cryptanalysis of an image encryption scheme using variant Hill cipher and chaos. In Expert Systems with Applications (Vol. 250, p. 123748). Elsevier BV. https://doi.org/10.1016/j.eswa.2024.123748
 '
 ---
 
