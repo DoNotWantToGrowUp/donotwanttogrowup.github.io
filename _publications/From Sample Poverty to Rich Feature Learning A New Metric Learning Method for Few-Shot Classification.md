@@ -3,7 +3,7 @@ title: "From Sample Poverty to Rich Feature Learning: A New Metric Learning Meth
 collection: publications
 category: manuscripts
 permalink: /publication/From Sample Poverty to Rich Feature Learning A New Metric Learning Method for Few-Shot Classification
-excerpt: 'IF:3.4  SCIE  JCR-Q2  中科院3区  EI'
+excerpt: 'IF:3.4  SCIE  JCR-Q2  中科院3区  EI  \(2024\)'
 date: 2024-08-16
 venue: 'IEEE Access'
 # slidesurl: 'https://donotwanttogrowup.github.io/YitingLin.github.io/files/slides1.pdf'

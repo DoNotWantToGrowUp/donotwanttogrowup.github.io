@@ -3,7 +3,7 @@ title: "Cryptanalyzing an image cipher using multiple chaos and DNA operations"
 collection: publications
 category: manuscripts
 permalink: /publication/Cryptanalyzing an image cipher using multiple chaos and DNA operations
-excerpt: 'IF:6.9  SCIE  JCR-Q1  中科院2区  (2023)'
+excerpt: 'IF:6.9  SCIE  JCR-Q1  中科院2区  \(2023\)'
 date: 2023-06-26
 venue: 'Journal of King Saud University - Computer and Information Sciences'
 # slidesurl: 'https://donotwanttogrowup.github.io/YitingLin.github.io/files/slides1.pdf'

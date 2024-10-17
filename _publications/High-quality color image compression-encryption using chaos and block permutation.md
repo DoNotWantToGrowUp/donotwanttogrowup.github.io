@@ -3,7 +3,7 @@ title: "High-quality color image compression-encryption using chaos and block pe
 collection: publications
 category: manuscripts
 permalink: /publication/High-quality color image compression-encryption using chaos and block permutation
-excerpt: 'IF:6.9  SCIE  JCR-Q1  中科院2区  (2023)'
+excerpt: 'IF:6.9  SCIE  JCR-Q1  中科院2区  \(2023\)'
 date: 2023-07-31
 venue: 'Journal of King Saud University - Computer and Information Sciences'
 # slidesurl: 'https://donotwanttogrowup.github.io/YitingLin.github.io/files/slides1.pdf'

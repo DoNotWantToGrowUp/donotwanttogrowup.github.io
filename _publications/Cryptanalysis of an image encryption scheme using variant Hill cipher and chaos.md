@@ -3,7 +3,7 @@ title: "Cryptanalysis of an image encryption scheme using variant Hill cipher an
 collection: publications
 category: manuscripts
 permalink: /publication/Cryptanalysis of an image encryption scheme using variant Hill cipher and chaos
-excerpt: 'IF:7.5  SCIE  JCR-Q1  中科院1区  TOP期刊  EI  CCF-C  (2024)'
+excerpt: 'IF:7.5  SCIE  JCR-Q1  中科院1区  TOP期刊  EI  CCF-C  \(2024\)'
 date: 2024-04-15
 venue: 'Expert Systems with Applications'
 # slidesurl: 'https://donotwanttogrowup.github.io/YitingLin.github.io/files/slides1.pdf'

@@ -9,7 +9,6 @@ venue: 'Expert Systems with Applications'
 # slidesurl: 'https://donotwanttogrowup.github.io/YitingLin.github.io/files/slides1.pdf'
 paperurl: 'https://donotwanttogrowup.github.io/YitingLin.github.io/files/Cryptanalysis of an image encryption algorithm using quantum chaotic map and DNA coding.pdf'
 citation: 'Wen, H., & Lin, Y. (2024). Cryptanalysis of an image encryption algorithm using quantum chaotic map and DNA coding. In Expert Systems with Applications (Vol. 237, p. 121514). Elsevier BV. https://doi.org/10.1016/j.eswa.2023.121514
-
 '
 ---
 
