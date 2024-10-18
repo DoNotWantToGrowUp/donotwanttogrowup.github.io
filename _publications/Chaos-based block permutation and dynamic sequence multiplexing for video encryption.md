@@ -1,5 +1,5 @@
 ---
-title: "**\[ESI Highly Cited Paper\]**Chaos-based block permutation and dynamic sequence multiplexing for video encryption"
+title: "ESI Highly Cited Paper Chaos-based block permutation and dynamic sequence multiplexing for video encryption"
 collection: publications
 category: manuscripts
 permalink: /publication/Chaos-based block permutation and dynamic sequence multiplexing for video encryption
