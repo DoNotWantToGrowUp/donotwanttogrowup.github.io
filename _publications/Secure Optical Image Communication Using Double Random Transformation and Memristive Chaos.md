@@ -1,5 +1,5 @@
 ---
-title: "Secure Optical Image Communication Using Double Random Transformation and Memristive Chaos"
+title: "[ESI Highly Cited Paper] Secure Optical Image Communication Using Double Random Transformation and Memristive Chaos"
 collection: publications
 category: manuscripts
 permalink: /publication/Secure Optical Image Communication Using Double Random Transformation and Memristive Chaos

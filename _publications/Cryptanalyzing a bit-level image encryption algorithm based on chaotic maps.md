@@ -1,5 +1,5 @@
 ---
-title: "Cryptanalyzing a bit-level image encryption algorithm based on chaotic maps"
+title: "[ESI Highly Cited Paper] Cryptanalyzing a bit-level image encryption algorithm based on chaotic maps"
 collection: publications
 category: manuscripts
 permalink: /publication/Cryptanalyzing a bit-level image encryption algorithm based on chaotic maps

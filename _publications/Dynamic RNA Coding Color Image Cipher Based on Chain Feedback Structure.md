@@ -1,5 +1,5 @@
 ---
-title: "Dynamic RNA Coding Color Image Cipher Based on Chain Feedback Structure"
+title: "[ESI Highly Cited Paper] Dynamic RNA Coding Color Image Cipher Based on Chain Feedback Structure"
 collection: publications
 category: manuscripts
 permalink: /publication/Dynamic RNA Coding Color Image Cipher Based on Chain Feedback Structure

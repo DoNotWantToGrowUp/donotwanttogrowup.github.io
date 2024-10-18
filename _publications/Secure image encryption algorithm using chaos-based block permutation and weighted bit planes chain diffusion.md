@@ -1,5 +1,5 @@
 ---
-title: "Secure image encryption algorithm using chaos-based block permutation and weighted bit planes chain diffusion"
+title: "[ESI Highly Cited Paper] Secure image encryption algorithm using chaos-based block permutation and weighted bit planes chain diffusion"
 collection: publications
 category: manuscripts
 permalink: /publication/Secure image encryption algorithm using chaos-based block permutation and weighted bit planes chain diffusion

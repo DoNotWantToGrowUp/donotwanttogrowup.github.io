@@ -1,5 +1,5 @@
 ---
-title: "Cryptanalyzing an image cipher using multiple chaos and DNA operations"
+title: "[ESI Highly Cited Paper] Cryptanalyzing an image cipher using multiple chaos and DNA operations"
 collection: publications
 category: manuscripts
 permalink: /publication/Cryptanalyzing an image cipher using multiple chaos and DNA operations
