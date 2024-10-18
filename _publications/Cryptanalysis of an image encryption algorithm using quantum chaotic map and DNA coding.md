@@ -3,7 +3,7 @@ title: "Cryptanalysis of an image encryption algorithm using quantum chaotic map
 collection: publications
 category: manuscripts
 permalink: /publication/Cryptanalysis of an image encryption algorithm using quantum chaotic map and DNA coding
-excerpt: 'IF:8.5  SCIE  JCR-Q1  中科院1区  TOP期刊  EI  CCF-C  (2023)'
+excerpt: 'IF:8.5  SCIE  JCR-Q1  中科院1区  TOP期刊  EI  CCF-C  \(2023\)'
 date: 2023-09-18
 venue: 'Expert Systems with Applications'
 # slidesurl: 'https://donotwanttogrowup.github.io/YitingLin.github.io/files/slides1.pdf'
