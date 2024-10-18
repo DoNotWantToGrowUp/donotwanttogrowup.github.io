@@ -6,8 +6,8 @@ permalink: /publication/Chaos-based block permutation and dynamic sequence multi
 excerpt: 'IF:4.6  SCIE  JCR-Q2  中科院3区  \(2023\)'
 date: 2023-09-07
 venue: 'Scientific Reports'
-# slidesurl: 'https://donotwanttogrowup.github.io/YitingLin.github.io/files/slides1.pdf'
-paperurl: 'https://donotwanttogrowup.github.io/YitingLin.github.io/files/Chaos-based block permutation and dynamic sequence multiplexing for video encryption.pdf'
+# slidesurl: 'https://donotwanttogrowup.github.io/files/slides1.pdf'
+paperurl: 'https://donotwanttogrowup.github.io/files/Chaos-based block permutation and dynamic sequence multiplexing for video encryption.pdf'
 citation: 'Wen, H., Lin, Y., Xie, Z., & Liu, T. (2023). Chaos-based block permutation and dynamic sequence multiplexing for video encryption. In Scientific Reports (Vol. 13, Issue 1). Springer Science and Business Media LLC. https://doi.org/10.1038/s41598-023-41082-9
 '
 ---
