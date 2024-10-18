@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Hong Kong Baptist University, 2025 (expected)
 * B.S. in University of Electronic Science and Technology of China, Zhongshan Institute (Zhongshan Institute, UESTC), 2020 - 2024
 
 Work experience
@@ -32,14 +32,29 @@ Work experience
   * Developed a delivery app named “Huijide (Good to Remember)” with 20,000 users,  effectively attracted over 50+ stores to use it, and made profits within one month
 
   
-Skills
+PATENTS (SELECTED)
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Yiting Lin (co-inventor), 2024. An Image Encryption Method and System Based on IWT and Cascaded Three-Dimensional Substitution-Box. Application No. 202410438225.9. Published.
+* Yiting Lin (co-inventor), 2024. Security Monitoring System and Method of Industrial Internet Based on the IDPH Algorithm. Application No. 202410432422.X. Patent Received.  
+* Yiting Lin (co-inventor), 2024. An Image Encryption Method, System, Device, and Storage Medium Based on Chaotic Sequences and Scrambling. Application No. 202410453552.1. Patent Pre-examination.
+* Yiting Lin (co-inventor), 2024. An Image Encryption Method and System Based on Bit Chain Diffusion and Dynamic Key. Application No. 202410453537.7. Patent Pre-examination.
+
+
+COMPUTER SOFTWARE COPYRIGHT (SELECTED)
+======
+* Encryption System of Color Digital Image Based on Python V1.0, Registration No. 2021SR1787796, Certificate No. 8510422 
+
+HORNORS & AWARDS (SELECTED)
+======
+* National-Level Project, College Students’ Innovative Entrepreneurial Training Plan Program (SIETP)                                                      2024
+* Provincial-Level Key Project, The 2024 Special Fund for the Cultivation of Guangdong College Students’ Scientific and Technological Innovation (“Climbing Program” Special Funds)                                                               2024
+* Third Prize, Computer Academy of Guangdong Outstanding Research Papers     2023
+* Third Prize, Guangdong Cyberspace Security Outstanding Research Papers     2023
+* Second Prize, The Guangdong Province Cybersecurity Industry Science and Technology Award                                                               2022 
+* Provincial Third Prize, The 13th “Blue Bridge Cup” National Software and Information Technology Professional Talent Competition                                2022
+* Provincial Third Prize, The 12th National “Innovation, Creation, Entrepreneurship” Challenge Competition for College Students   
+
+
 
 Publications
 ======
