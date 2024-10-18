@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* Research Assistant, University of Electronic Science and Technology of China, Zhongshan Institute                     <p align="right">May 2024 - May 2025 (Expected)</p>                   
+* Research Assistant, University of Electronic Science and Technology of China, Zhongshan Institute                     <p style="text-align:right">May 2024 - May 2025 (Expected)</p>                   
   * Conducted scientific research, analyzed relevant data, published academic articles and assisted professors and other research staff to complete research projects 
   * Supervised students in research competitions, and instructed them in basic lab techniques
 * Teaching Assistant, University of Electronic Science and Technology of China, Zhongshan Institute                    <p align="right">September 2020 - May 2024</p>                                 
