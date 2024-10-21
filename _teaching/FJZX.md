@@ -8,13 +8,4 @@ date: 2024-02-01
 location: "Putian, Fujian"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+* Gave courses and relevant guidance for students at the Information Technology Training Team during their winter vacation as a substitute teacher.

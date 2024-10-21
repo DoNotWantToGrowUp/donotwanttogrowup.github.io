@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching Assistant Experience 1"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Teaching Assistant"
+permalink: /teaching/ZSC_TA
+venue: "University of Electronic Science and Technology of China, Zhongshan Institute"
+date: 2020-09-01
+location: "Zhongshan, Guangdong"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+* Involved in the development of new teaching materials and distributed instructional materials for four courses, such as Chaotic Image Encryption Technology, and Nationalized Confidential Communication System.

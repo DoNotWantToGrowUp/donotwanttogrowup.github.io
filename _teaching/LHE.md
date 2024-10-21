@@ -1,20 +1,11 @@
 ---
-title: "Teaching Experience 1"
+title: "Volunteering Experience 1"
 collection: teaching
-type: "Teacher"
-permalink: /teaching/FJZX
-venue: "Xianyou Fengiang Junior High School"
-date: 2024-02-01
-location: "Putian, Fujian"
+type: "Programming Teacher"
+permalink: /teaching/LHE
+venue: "Lianke High-tech Education"
+date: 2024-06-01
+location: "Zhongshan, Guangdong"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+* As a teacher of children's programming courses, I focus on teaching and guiding the Python programming language. I am responsible for designing and implementing creative and interactive course plans to stimulate children's interest and enthusiasm in programming.
