@@ -3,7 +3,7 @@ title: "Image privacy protection scheme based on high-quality reconstruction DCT
 collection: publications
 category: manuscripts
 #category: conferences
-permalink: /publication/From Sample Poverty to Rich Feature Learning A New Metric Learning Method for Few-Shot Classification
+permalink: /publication/Image privacy protection scheme based on high-quality reconstruction DCT compression and nonlinear dynamics
 excerpt: 'IF:7.5  SCIE  JCR-Q1  中科院1区  TOP期刊  EI  CCF-C  \(2024\)'
 date: 2024-08-14
 venue: 'Expert Systems with Applications'
