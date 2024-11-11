@@ -40,7 +40,7 @@ My current research focuses on the practical problems faced by the intersection 
 ---
 
 ## Academic and Social Service
-* **Reviewer** of the following journals/conferences
+* **Reviewer** of the following journals
    * ACM Transactions on Multimedia Computing, Communications, and Applications
    * Expert systems with applications
    * Applied soft computing 
@@ -54,6 +54,7 @@ My current research focuses on the practical problems faced by the intersection 
    * iScience
    * Physica scripta
    * The European physical journal plus
+   * International journal of bifurcation and chaos in applied sciences and engineering
    * Journal of King Saud University Computer and Information Sciences
    * [Read More](https://orcid.org/0000-0003-4159-3132)
 
