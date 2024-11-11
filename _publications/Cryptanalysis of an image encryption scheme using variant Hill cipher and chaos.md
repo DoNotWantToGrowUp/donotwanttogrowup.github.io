@@ -1,5 +1,5 @@
 ---
-title: "Cryptanalysis of an image encryption scheme using variant Hill cipher and chaos"
+title: "[ESI Highly Cited Paper] Cryptanalysis of an image encryption scheme using variant Hill cipher and chaos"
 collection: publications
 category: manuscripts
 permalink: /publication/Cryptanalysis of an image encryption scheme using variant Hill cipher and chaos
