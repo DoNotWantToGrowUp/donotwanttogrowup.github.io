@@ -28,6 +28,42 @@ My current research focuses on the practical problems faced by the intersection 
 ## Masterpiece
 * **Representative Publications**
    * [[ESI Highly Cited Paper] Lin Y, Xie Z, Chen T, Cheng X, Wen H. Image privacy protection scheme based on high-quality reconstruction DCT compression and nonlinear dynamics. Expert Systems with Applications. 2024;257:124891.](http://www.yitinglin.top/publication/Image%20privacy%20protection%20scheme%20based%20on%20high-quality%20reconstruction%20DCT%20compression%20and%20nonlinear%20dynamics)
-   * [[ESI Highly Cited Paper] Wen H, Lin Y, Xie Z, Liu T. Chaos-based block permutation and dynamic sequence multiplexing for video encryption. Sci Rep. 2023;13(1). (Corresponding author)](http://www.yitinglin.top/publication/Chaos-based%20block%20permutation%20and%20dynamic%20sequence%20multiplexing%20for%20video%20encryption)
    * [[ESI Highly Cited Paper] Wen H, Lin Y. Cryptanalysis of an image encryption algorithm using quantum chaotic map and DNA coding. Expert Systems with Applications. 2024;237:121514.](http://www.yitinglin.top/publication/Cryptanalysis%20of%20an%20image%20encryption%20algorithm%20using%20quantum%20chaotic%20map%20and%20DNA%20coding)   
-   * [[ESI Highly Cited Paper] Wen H, Lin Y, Yang L, Chen R. Cryptanalysis of an image encryption scheme using variant Hill cipher and chaos. Expert Systems with Applications. 2024;250:123748.](http://www.yitinglin.top/publication/Cryptanalysis%20of%20an%20image%20encryption%20algorithm%20using%20quantum%20chaotic%20map%20and%20DNA%20coding)   
+   * [[ESI Highly Cited Paper] Wen H, Lin Y, Yang L, Chen R. Cryptanalysis of an image encryption scheme using variant Hill cipher and chaos. Expert Systems with Applications. 2024;250:123748.](http://www.yitinglin.top/publication/Cryptanalysis%20of%20an%20image%20encryption%20scheme%20using%20variant%20Hill%20cipher%20and%20chaos)   
+   * [[ESI Highly Cited Paper] Wen H, Lin Y, Feng Z. Cryptanalyzing a bit-level image encryption algorithm based on chaotic maps. Engineering Science and Technology, an International Journal. 2024;51:101634.](http://www.yitinglin.top/publication/Cryptanalyzing%20a%20bit-level%20image%20encryption%20algorithm%20based%20on%20chaotic%20maps) 
+   * [[ESI Highly Cited Paper] Wen H, Lin Y, Kang S, Zhang X, Zou K. Secure image encryption algorithm using chaos-based block permutation and weighted bit planes chain diffusion. iScience. 2024;27(1):108610.](http://www.yitinglin.top/publication/Secure%20image%20encryption%20algorithm%20using%20chaos-based%20block%20permutation%20and%20weighted%20bit%20planes%20chain%20diffusion) 
+   * [[ESI Highly Cited Paper] Wen H, Lin Y. Cryptanalyzing an image cipher using multiple chaos and DNA operations. Journal of King Saud University - Computer and Information Sciences. 2023;35(7):101612.](http://www.yitinglin.top/publication/Cryptanalyzing%20an%20image%20cipher%20using%20multiple%20chaos%20and%20DNA%20operations) 
+   * [[ESI Highly Cited Paper] Wen H, Lin Y, Xie Z, Liu T. Chaos-based block permutation and dynamic sequence multiplexing for video encryption. Sci Rep. 2023;13(1). (Corresponding author)](http://www.yitinglin.top/publication/Chaos-based%20block%20permutation%20and%20dynamic%20sequence%20multiplexing%20for%20video%20encryption)
+   * [[ESI Highly Cited Paper] Wen H, Kang S, Wu Z, Lin Y, Huang Y. Dynamic RNA Coding Color Image Cipher Based on Chain Feedback Structure. Mathematics. 2023;11(14):3133. (Corresponding author](http://www.yitinglin.top/publication/Dynamic%20RNA%20Coding%20Color%20Image%20Cipher%20Based%20on%20Chain%20Feedback%20Structure) 
+   * [Read More](https://orcid.org/0000-0003-4159-3132)
+
+---
+
+## Academic and Social Service
+* **Reviewer** of the following journals/conferences
+   * ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM) 
+   * Expert systems with applications
+   * Applied soft computing 
+   * Computers & security  
+   * Journal of visual communication and image representation  
+   * Ain Shams Engineering Journal 
+   * Alexandria Engineering Journal 
+   * Computer vision and image understanding
+   * Digital signal processing
+   * IET information security
+   * iScience
+   * Physica scripta
+   * The European physical journal plus
+   * Journal of King Saud University Computer and Information Sciences
+   * [Read More](https://orcid.org/0000-0003-4159-3132)
+
+---
+
+## Awards and Honors
+* **College Students’ Innovative Entrepreneurial Training Plan Program (SIETP)**-National-Level Project-2024  
+* **The 2024 Special Fund for the Cultivation of Guangdong College Students’ Scientific and Technological Innovation (“Climbing Program” Special Funds)**-Provincial-Level Key Project-2024 
+* **Computer Academy of Guangdong Outstanding Research Papers**-Third Prize-2023
+* **Guangdong Cyberspace Security Outstanding Research Papers**-Third Prize-2023
+* **The Guangdong Province Cybersecurity Industry Science and Technology Award**-Second Prize-2022 
+* **The 13th “Blue Bridge Cup” National Software and Information Technology Professional Talent Competition**-Provincial Third Prize-2022
+* **The 12th National “Innovation, Creation, Entrepreneurship” Challenge Competition for College Students**-Provincial Third Prize-2022
