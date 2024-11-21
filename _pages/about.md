@@ -58,6 +58,10 @@ My current research focuses on the practical problems faced by the intersection 
    * Journal of King Saud University Computer and Information Sciences
    * [Read More](https://orcid.org/0000-0003-4159-3132)
 
+* **Associate Editor** of the following journals/conferences
+   * Mathematics: Nonlinear Dynamics for Image Encryption (Guest Editor: Invited)
+   * Symmetry: Applications of Image Processing with Symmetry/  Asymmetry (Guest Editor: Invited)
+   
 ---
 
 ## Awards and Honors
