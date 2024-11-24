@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Here is **Yiting Lin（林一挺）**.
-I am currently a research assistant at BNU-HKBU United International College (Hong Kong Baptist University), advised by [A.P. Donglong CHEN](https://staff.uic.edu.cn/donglongchen/en), within Embedded System Lab for AI and Security. I am also a researcher in [Prof. Wenbin Cheng](https://jsjxy.zsc.edu.cn/szdw/szdwzg/1dje8dg8bfln5.shtml)'s postgraduate research team at University of Electronic Science and Technology of China, Zhongshan Institute. My research interests include Cryptography , Blockchain, Multimedia Security, Image Processingg, Nonlinear Systems and Applications, and AI Security.
+I am currently a research assistant at BNU-HKBU United International College (Hong Kong Baptist University), advised by [A.P. Donglong CHEN](https://staff.uic.edu.cn/donglongchen/en), within Embedded System Lab for AI and Security. I am also a researcher in [Prof. Wenbin Cheng](https://jsjxy.zsc.edu.cn/szdw/szdwzg/1dje8dg8bfln5.shtml)'s postgraduate research team at University of Electronic Science and Technology of China, Zhongshan Institute. My research interests include Cryptography, Blockchain, Multimedia Security, Image Processingg, Nonlinear Systems and Applications, and AI Security.
 
 If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - YitingLin [at] ieee.org
 
@@ -62,7 +62,7 @@ My current research focuses on the practical problems faced by the intersection 
    * Mathematics: Nonlinear Dynamics for Image Encryption (Guest Editor: Invited)
    * Symmetry: Applications of Image Processing with Symmetry/Asymmetry (Guest Editor: Invited)
    * Mathematics: Modern Trends in Cryptography Algorithms and Models (Guest Editor: Invited)
-   
+
 ---
 
 ## Awards and Honors
