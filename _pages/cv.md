@@ -41,7 +41,7 @@ PATENTS (SELECTED)
 ======
 * **An Image Encryption Method and System Based on IWT and Cascaded Three-Dimensional Substitution-Box**-2024-Application No. 202410438225.9. 
 * **Security Monitoring System and Method of Industrial Internet Based on the IDPH Algorithm**-2024-Application No. 202410432422.X.  
-* **n Image Encryption Method, System, Device, and Storage Medium Based on Chaotic Sequences and Scrambling**-2024-Application No. 202410453552.1. 
+* **An Image Encryption Method, System, Device, and Storage Medium Based on Chaotic Sequences and Scrambling**-2024-Application No. 202410453552.1. 
 * **An Image Encryption Method and System Based on Bit Chain Diffusion and Dynamic Key**-2024-Application No. 202410453537.7. 
 
 
