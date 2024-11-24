@@ -62,6 +62,7 @@ My current research focuses on the practical problems faced by the intersection 
    * Mathematics: Nonlinear Dynamics for Image Encryption (Guest Editor: Invited)
    * Symmetry: Applications of Image Processing with Symmetry/Asymmetry (Guest Editor: Invited)
    * Mathematics: Modern Trends in Cryptography Algorithms and Models (Guest Editor: Invited)
+   
 ---
 
 ## Awards and Honors
