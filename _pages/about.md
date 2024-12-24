@@ -18,7 +18,8 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 - Cryptography
 - Blockchain
-- Information Security
+- Information Security 
+- Multimedia Security
 - Artificial Intelligence (ML/DL)
 
 My current research focuses on the practical problems faced by the intersection of cryptography and other disciplines in real-life applications. My interests are blockchain and fully homomorphic encryption and their applications in industrial IoT and life. My research also involves some areas of artificial intelligence. In short, advanced technologies such as cryptography, artificial intelligence, and the Internet have a positive impact on everyone's life. I hope to devote my talents to this meaningful cause and bring benefits to society.
@@ -42,20 +43,21 @@ My current research focuses on the practical problems faced by the intersection 
 ## Academic and Social Service
 * **Reviewer** of the following journals
    * ACM Transactions on Multimedia Computing, Communications, and Applications
-   * Expert systems with applications
-   * Applied soft computing 
-   * Computers & security  
-   * Journal of visual communication and image representation  
-   * Ain Shams Engineering Journal 
-   * Alexandria Engineering Journal 
+   * Ain Shams Engineering Journal
+   * Alexandria Engineering Journal
+   * Applied soft computing
+   * Computers & security
    * Computer vision and image understanding
    * Digital signal processing
+   * Expert systems with applications
+   * Information Sciences
    * IET information security
+   * International journal of bifurcation and chaos in applied sciences and engineering
    * iScience
+   * Journal of King Saud University Computer and Information Sciences
+   * Journal of visual communication and image representation
    * Physica scripta
    * The European physical journal plus
-   * International journal of bifurcation and chaos in applied sciences and engineering
-   * Journal of King Saud University Computer and Information Sciences
    * [Read More](https://orcid.org/0000-0003-4159-3132)
 
 * **Associate Editor** of the following journals/conferences
