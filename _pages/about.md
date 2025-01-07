@@ -56,7 +56,7 @@ My current research focuses on the practical problems faced by the intersection 
    * iScience
    * Journal of King Saud University Computer and Information Sciences
    * Journal of visual communication and image representation
-   * Physica scripta
+   * Physica scripta <font color=red>[(IOP Trusted Reviewer)](https://accreditations.ioppublishing.org/aa9eb2aa-b910-4c32-b0cd-22c5e0890b35#acc.QuPa1Woy)</font>
    * The European physical journal plus
    * [Read More](https://orcid.org/0000-0003-4159-3132)
 
