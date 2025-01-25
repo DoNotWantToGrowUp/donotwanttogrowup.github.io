@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Here is **Yiting Lin（林一挺/ JatTing Lam）**.
-I am currently a research assistant at BNU-HKBU United International College (Hong Kong Baptist University), advised by [A.P. Donglong CHEN](https://staff.uic.edu.cn/donglongchen/en), within Embedded System Lab for AI and Security. I am also a researcher in [Prof. Wenbin Cheng](https://jsjxy.zsc.edu.cn/szdw/szdwzg/1dje8dg8bfln5.shtml)'s postgraduate research team at University of Electronic Science and Technology of China, Zhongshan Institute. My research interests include Cryptography, Blockchain, Multimedia Security, Image Processing, Nonlinear Systems and Applications, and AI Security.
+I am currently a research assistant at BNU-HKBU United International College (Hong Kong Baptist University), advised by [A.P. Donglong CHEN](https://staff.uic.edu.cn/donglongchen/en), within Embedded System Lab for AI and Security. I am also a research professor (Non-Tenure-Track)in [Prof. Wenbin Cheng](https://jsjxy.zsc.edu.cn/szdw/szdwzg/1dje8dg8bfln5.shtml)'s postgraduate research team at University of Electronic Science and Technology of China, Zhongshan Institute. My research interests include Cryptography, Blockchain, Multimedia Security, Image Processing, Nonlinear Systems and Applications, and AI Security.
 
 If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - YitingLin [at] ieee.org
 
@@ -49,11 +49,13 @@ My current research focuses on the practical problems faced by the intersection 
    * Computers & security
    * Computer vision and image understanding
    * Digital signal processing
+   * Engineering applications of artificial intelligence
    * Expert systems with applications
    * Information Sciences
    * IET information security
    * International journal of bifurcation and chaos in applied sciences and engineering
    * iScience
+   * Journal of the Franklin Institute
    * Journal of King Saud University Computer and Information Sciences
    * Journal of visual communication and image representation
    * Physica scripta [(IOP Trusted Reviewer)](https://accreditations.ioppublishing.org/aa9eb2aa-b910-4c32-b0cd-22c5e0890b35#acc.QuPa1Woy)
