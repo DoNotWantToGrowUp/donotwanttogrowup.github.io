@@ -43,21 +43,21 @@ My current research focuses on the practical problems faced by the intersection 
 ## Academic and Social Service
 * **Reviewer** of the following journals
    * ACM Transactions on Multimedia Computing, Communications, and Applications
-   * Ain Shams Engineering Journal
-   * Alexandria Engineering Journal
-   * Applied soft computing
-   * Computers & security
-   * Computer vision and image understanding
-   * Digital signal processing
-   * Engineering applications of artificial intelligence
-   * Expert systems with applications
-   * Information Sciences
+   * Ain Shams Engineering Journal [(Certificates)](http://www.yitinglin.top/Certificates/Certificate_ASEJ_Recognised.pdf)
+   * Alexandria Engineering Journal [(Certificates)](http://www.yitinglin.top/Certificates/Certificate_AEJ_Recognised.pdf)
+   * Applied soft computing [(Certificates)](http://www.yitinglin.top/Certificates/Certificate_ASOC_Recognised.pdf)
+   * Computers & security [(Certificates)](http://www.yitinglin.top/Certificates/Certificate_COSE_Recognised.pdf)
+   * Computer vision and image understanding [(Certificates)](http://www.yitinglin.top/Certificates/)
+   * Digital signal processing [(Certificates)](http://www.yitinglin.top/Certificates/)
+   * Engineering applications of artificial intelligence [(Certificates)](http://www.yitinglin.top/Certificates/Certificate_EAAI_Recognised.pdf)
+   * Expert systems with applications 
+   * Information Sciences [(Certificates)](http://www.yitinglin.top/Certificates/Certificate_INS_Recognised.pdf)
    * IET information security
    * International journal of bifurcation and chaos in applied sciences and engineering
    * iScience
-   * Journal of the Franklin Institute
-   * Journal of King Saud University Computer and Information Sciences
-   * Journal of visual communication and image representation
+   * Journal of the Franklin Institute 
+   * Journal of King Saud University Computer and Information Sciences [(Certificates)](http://www.yitinglin.top/Certificates/Certificate_JKSUCI_Recognised.pdf)
+   * Journal of visual communication and image representation [(Certificates)](http://www.yitinglin.top/Certificates/Certificate_YJVCI_Recognised.pdf)
    * Physica scripta [(IOP Trusted Reviewer)](https://accreditations.ioppublishing.org/aa9eb2aa-b910-4c32-b0cd-22c5e0890b35#acc.QuPa1Woy)
    * The European physical journal plus
    * [Read More](https://orcid.org/0000-0003-4159-3132)
