@@ -1,5 +1,5 @@
 ---
-title: "[ESI Highly Cited Paper] Image privacy protection scheme based on high-quality reconstruction DCT compression and nonlinear dynamics"
+title: "[ESI Hot Paper][ESI Highly Cited Paper] Image privacy protection scheme based on high-quality reconstruction DCT compression and nonlinear dynamics"
 collection: publications
 category: manuscripts
 #category: conferences
