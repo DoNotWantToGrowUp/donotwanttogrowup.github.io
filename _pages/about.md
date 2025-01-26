@@ -18,10 +18,13 @@ redirect_from:
 
 
 Here is **Yiting Lin（林一挺/ JatTing Lam）**.
-I am currently a research assistant at BNU-HKBU United International College (Hong Kong Baptist University), advised by [A.P. Donglong CHEN](https://staff.uic.edu.cn/donglongchen/en), within Embedded System Lab for AI and Security. I am also a research professor (Non-Tenure-Track) in [Prof. Wenbin Cheng](https://jsjxy.zsc.edu.cn/szdw/szdwzg/1dje8dg8bfln5.shtml)'s postgraduate research team at University of Electronic Science and Technology of China, Zhongshan Institute. I have published over 20 papers since 2022, including 3 papers from the first quartile journals of the Chinese Academy of Sciences. My work has been cited over 500 times on Google Scholar, with an H-index of 14. I have authored 9 highly cited papers according to the Essential Science Indicators (ESI), and 1 hot paper according to the ESI. <a href='https://scholar.google.com/citations?user=yh9vRvQAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url_citations | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a><a href='https://scholar.google.com/citations?user=yh9vRvQAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url_hindex | url_encode }}&logo=Google%20Scholar&labelColor=0000ff&color=ffa500&style=plastic&label=h-index"></a>。
+I am currently a research assistant at BNU-HKBU United International College (Hong Kong Baptist University), advised by [A.P. Donglong CHEN](https://staff.uic.edu.cn/donglongchen/en), within Embedded System Lab for AI and Security. I am also a research professor (Non-Tenure-Track) in [Prof. Wenbin Cheng](https://jsjxy.zsc.edu.cn/szdw/szdwzg/1dje8dg8bfln5.shtml)'s postgraduate research team at University of Electronic Science and Technology of China, Zhongshan Institute. I have published over 20 papers since 2022, including 3 papers from the first quartile journals of the Chinese Academy of Sciences. My work has been cited over 500 times on Google Scholar, with an H-index of 14. I have authored 9 highly cited papers according to the Essential Science Indicators (ESI), and 1 hot paper according to the ESI. 
 
 If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - YitingLin [at] ieee.org
 
+
+
+Real-time data: <a href='https://scholar.google.com/citations?user=yh9vRvQAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url_citations | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>  <a href='https://scholar.google.com/citations?user=yh9vRvQAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url_hindex | url_encode }}&logo=Google%20Scholar&labelColor=0000ff&color=ffa500&style=plastic&label=h-index"></a>
 ---
 
 ## Research Interests
