@@ -14,7 +14,8 @@ name                     : &name "Yiting Lin"
 description              : &description "personal description"
 url                      : https://donotwanttogrowup.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "donotwanttogrowup/donotwanttogrowup.github.io"
+google_scholar_stats_use_cdn : True
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
