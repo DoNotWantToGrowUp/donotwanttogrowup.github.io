@@ -7,6 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<meta
+  name="Yiting Lin's Homepage"
+  content="I am currently a research assistant at BNU-HKBU United International College, advised by A.P. Donglong CHEN, within Embedded System Lab for AI and Security. I am also a research professor (Non-Tenure-Track) in Prof. Wenbin Cheng's postgraduate research team at University of Electronic Science and Technology of China, Zhongshan Institute.">
 
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
