@@ -71,6 +71,7 @@ My current research focuses on the practical problems faced by the intersection 
    * Expert systems with applications 
    * Information Sciences [(Certificates)](http://www.yitinglin.top/Certificates/Certificate_INS_Recognised.pdf)
    * IET information security
+   * Image and Vision Computing
    * International journal of bifurcation and chaos in applied sciences and engineering
    * iScience
    * Journal of the Franklin Institute 
