@@ -65,11 +65,13 @@ My current research focuses on the practical problems faced by the intersection 
    * Alexandria Engineering Journal [(Certificates)](http://www.yitinglin.top/Certificates/Certificate_AEJ_Recognised.pdf)
    * Applied soft computing [(Certificates)](http://www.yitinglin.top/Certificates/Certificate_ASOC_Recognised.pdf)
    * Computers & security [(Certificates)](http://www.yitinglin.top/Certificates/Certificate_COSE_Recognised.pdf)
+   * Computers and Electrical Engineering
    * Computer vision and image understanding [(Certificates)](http://www.yitinglin.top/Certificates/)
    * Digital signal processing [(Certificates)](http://www.yitinglin.top/Certificates/)
    * Engineering applications of artificial intelligence [(Certificates)](http://www.yitinglin.top/Certificates/Certificate_EAAI_Recognised.pdf)
    * Expert systems with applications 
    * Information Sciences [(Certificates)](http://www.yitinglin.top/Certificates/Certificate_INS_Recognised.pdf)
+   * IEEE Internet of Things Journal
    * IET information security
    * Image and Vision Computing
    * International journal of bifurcation and chaos in applied sciences and engineering
@@ -81,11 +83,9 @@ My current research focuses on the practical problems faced by the intersection 
    * The European physical journal plus
    * [Read More](https://orcid.org/0000-0003-4159-3132)
 
-* **Associate Editor** of the following journals/conferences
-   * Mathematics: Nonlinear Dynamics for Image Encryption (Guest Editor: Invited)
-   * Symmetry: Applications of Image Processing with Symmetry/Asymmetry (Guest Editor: Invited)
-   * Mathematics: Modern Trends in Cryptography Algorithms and Models (Guest Editor: Invited)
-   * Mathematics:  Application of Distributed Encryption Technology in Enhancing Security and Privacy (Guest Editor: Invited)
+* **Associate Editor** of the following journals/conferences 
+   * N/A
+   * [Guest Editor](https://orcid.org/0000-0003-4159-3132)
 
 ---
 
