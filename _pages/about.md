@@ -86,7 +86,7 @@ My current research focuses on the practical problems faced by the intersection 
 
 * **Associate Editor** of the following journals/conferences 
    * N/A
-   * [Guest Editor](https://orcid.org/0000-0003-4159-3132)
+   * [Guest Editor](https://www.yitinglin.top/Guest%20Editor/)
 
 ---
 
