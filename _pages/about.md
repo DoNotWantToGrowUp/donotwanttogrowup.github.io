@@ -64,6 +64,7 @@ My current research focuses on the practical problems faced by the intersection 
    * Ain Shams Engineering Journal [(Certificates)](http://www.yitinglin.top/Certificates/Certificate_ASEJ_Recognised.pdf)
    * Alexandria Engineering Journal [(Certificates)](http://www.yitinglin.top/Certificates/Certificate_AEJ_Recognised.pdf)
    * Applied soft computing [(Certificates)](http://www.yitinglin.top/Certificates/Certificate_ASOC_Recognised.pdf)
+   * Applied Artificial Intelligence
    * Computers & security [(Certificates)](http://www.yitinglin.top/Certificates/Certificate_COSE_Recognised.pdf)
    * Computers and Electrical Engineering
    * Computer vision and image understanding [(Certificates)](http://www.yitinglin.top/Certificates/)
