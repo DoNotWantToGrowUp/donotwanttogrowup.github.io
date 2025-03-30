@@ -10,7 +10,7 @@ redirect_from:
 
 <title>Yiting Lin's Homepage</title>
 
-<meta name="description" content="I am currently a research assistant at BNU-HKBU United International College, advised by A.P. Donglong CHEN, within Embedded System Lab for AI and Security. I am also a research professor (Non-Tenure-Track) in Prof. Wenbin Cheng's postgraduate research team at University of Electronic Science and Technology of China, Zhongshan Institute.">
+<meta name="description" content="I am currently a research assistant at Beijing Normal-Hong Kong Baptist University, advised by A.P. Donglong CHEN, within Embedded System Lab for AI and Security. I am also a research professor (Non-Tenure-Track) in Prof. Wenbin Cheng's postgraduate research team at University of Electronic Science and Technology of China, Zhongshan Institute.">
 
 <meta name="keywords" content="Yiting Lin, 林一挺, Yiting Lin's Homepage, JatTing Lam">
 
@@ -63,16 +63,19 @@ My current research focuses on the practical problems faced by the intersection 
    * ACM Transactions on Multimedia Computing, Communications, and Applications
    * Ain Shams Engineering Journal [(Certificates)](http://www.yitinglin.top/Certificates/Certificate_ASEJ_Recognised.pdf)
    * Alexandria Engineering Journal [(Certificates)](http://www.yitinglin.top/Certificates/Certificate_AEJ_Recognised.pdf)
-   * Applied soft computing [(Certificates)](http://www.yitinglin.top/Certificates/Certificate_ASOC_Recognised.pdf)
    * Applied Artificial Intelligence
+   * Applied soft computing [(Certificates)](http://www.yitinglin.top/Certificates/Certificate_ASOC_Recognised.pdf)
    * Computers & security [(Certificates)](http://www.yitinglin.top/Certificates/Certificate_COSE_Recognised.pdf)
-   * Computers and Electrical Engineering
    * Computer vision and image understanding [(Certificates)](http://www.yitinglin.top/Certificates/)
    * Digital signal processing [(Certificates)](http://www.yitinglin.top/Certificates/)
    * Engineering applications of artificial intelligence [(Certificates)](http://www.yitinglin.top/Certificates/Certificate_EAAI_Recognised.pdf)
    * Expert systems with applications 
    * Information Sciences [(Certificates)](http://www.yitinglin.top/Certificates/Certificate_INS_Recognised.pdf)
    * IEEE Internet of Things Journal
+   * IEEE Transactions on Circuits and Systems for Video Technology
+   * IEEE Transactions on Information Forensics and Security
+   * IEEE Transactions on Systems, Man, and Cybernetics: Systems
+   * IEEE MultiMedia
    * IET information security
    * Image and Vision Computing
    * International journal of bifurcation and chaos in applied sciences and engineering
