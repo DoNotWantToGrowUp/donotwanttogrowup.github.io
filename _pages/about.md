@@ -10,8 +10,7 @@ redirect_from:
 
 <title>Yiting Lin's Homepage</title>
 
-<meta name="description" content="I am currently a research assistant at Beijing Normal-Hong Kong Baptist University, advised by A.P. Donglong CHEN, within Embedded System Lab for AI and Security. I am also a research professor (Non-Tenure-Track) in Prof. Wenbin Cheng's postgraduate research team at University of Electronic Science and Technology of China, Zhongshan Institute.">
-
+<meta name="description" content="I am currently a research assistant at Beijing Normal-Hong Kong Baptist University, advised by A.P. Donglong CHEN, within Guangdong Provincial/Zhuhai Key Laboratory of Interdisciplinary Research and Application for Data Science. I am also a research professor (Non-Tenure-Track) in Prof. Wenbin Cheng's postgraduate research team at University of Electronic Science and Technology of China, Zhongshan Institute.">
 <meta name="keywords" content="Yiting Lin, 林一挺, Yiting Lin's Homepage, JatTing Lam">
 
 
@@ -24,7 +23,7 @@ redirect_from:
 {% assign url_hindex = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio_hindex.json" %}
 
 Here is **Yiting Lin（林一挺/ JatTing Lam）**.
-I am currently a research assistant at BNU-HKBU United International College (Hong Kong Baptist University), advised by [A.P. Donglong CHEN](https://staff.uic.edu.cn/donglongchen/en), within Embedded System Lab for AI and Security. I am also a teacher (researcher) in [Prof. Wenbin Cheng](https://jsjxy.zsc.edu.cn/szdw/szdwzg/1dje8dg8bfln5.shtml)'s postgraduate research team at University of Electronic Science and Technology of China, Zhongshan Institute. I have published over 20 papers since 2022, including 3 papers from the first quartile journals of the Chinese Academy of Sciences. My work has been cited over 500 times on Google Scholar, with an H-index of 14. I have authored 9 highly cited papers according to the Essential Science Indicators (ESI), and 1 hot paper according to the ESI. 
+I am currently a research assistant at Normal-Hong Kong Baptist University (BNBU), advised by [A.P. Donglong CHEN](https://staff.uic.edu.cn/donglongchen/en), within Guangdong Provincial/Zhuhai Key Laboratory of Interdisciplinary Research and Application for Data Science. I am also a teacher (researcher) in [Prof. Wenbin Cheng](https://jsjxy.zsc.edu.cn/szdw/szdwzg/1dje8dg8bfln5.shtml)'s postgraduate research team at University of Electronic Science and Technology of China, Zhongshan Institute. I have published over 20 papers since 2022, including 3 papers from the first quartile journals of the Chinese Academy of Sciences. My work has been cited over 500 times on Google Scholar, with an H-index of 14. I have authored 9 highly cited papers according to the Essential Science Indicators (ESI), and 1 hot paper according to the ESI. 
 
 If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - YitingLin [at] ieee.org
 
