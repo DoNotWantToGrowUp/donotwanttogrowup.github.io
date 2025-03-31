@@ -10,7 +10,7 @@ redirect_from:
 
 <title>Yiting Lin's Homepage</title>
 
-<meta name="description" content="I am currently a research assistant at Beijing Normal-Hong Kong Baptist University, advised by A.P. Donglong CHEN, within Guangdong Provincial/Zhuhai Key Laboratory of Interdisciplinary Research and Application for Data Science. I am also a research professor (Non-Tenure-Track) in Prof. Wenbin Cheng's postgraduate research team at University of Electronic Science and Technology of China, Zhongshan Institute.">
+<meta name="description" content="I am currently a research assistant at Beijing Normal-Hong Kong Baptist University (BNBU), advised by A.P. Donglong CHEN, within Guangdong Provincial/Zhuhai Key Laboratory of Interdisciplinary Research and Application for Data Science. I am also a research professor (Non-Tenure-Track) in Prof. Wenbin Cheng's postgraduate research team at University of Electronic Science and Technology of China, Zhongshan Institute.">
 <meta name="keywords" content="Yiting Lin, 林一挺, Yiting Lin's Homepage, JatTing Lam">
 
 
