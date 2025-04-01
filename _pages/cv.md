@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in **Hong Kong Baptist University**, 2025 (expected)
+* Ph.D in **Beijing Normal-Hong Kong Baptist University (Hong Kong Baptist University)**, 2025 (expected)
 * B.S. in **University of Electronic Science and Technology of China, Zhongshan Institute**, 2020 - 2024
 
 Work experience
