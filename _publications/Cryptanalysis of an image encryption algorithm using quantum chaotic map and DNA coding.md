@@ -1,5 +1,5 @@
 ---
-title: "[ESI Highly Cited Paper] Cryptanalysis of an image encryption algorithm using quantum chaotic map and DNA coding"
+title: "[ESI Hot Paper][ESI Highly Cited Paper] Cryptanalysis of an image encryption algorithm using quantum chaotic map and DNA coding"
 collection: publications
 category: manuscripts
 permalink: /publication/Cryptanalysis of an image encryption algorithm using quantum chaotic map and DNA coding
