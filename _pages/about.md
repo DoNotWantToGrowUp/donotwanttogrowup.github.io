@@ -84,6 +84,7 @@ My current research focuses on the practical problems faced by the intersection 
    * Image and Vision Computing
    * International journal of bifurcation and chaos in applied sciences and engineering
    * iScience
+   * Journal of Information Security and Applications
    * Journal of the Franklin Institute 
    * Journal of King Saud University Computer and Information Sciences [(Certificates)](http://www.yitinglin.top/Certificates/Certificate_JKSUCI_Recognised.pdf)
    * Journal of visual communication and image representation [(Certificates)](http://www.yitinglin.top/Certificates/Certificate_YJVCI_Recognised.pdf)
