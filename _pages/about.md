@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "I welcome all kinds of academic exchanges!"
+title: "Yiting Lin's Homepage"
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -21,6 +21,9 @@ redirect_from:
 {% endif %}
 {% assign url_citations = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 {% assign url_hindex = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio_hindex.json" %}
+
+
+**I welcome all kinds of academic exchanges!**
 
 Here is **Yiting Lin（林一挺）**.
 I am currently a research assistant at Beijing Normal-Hong Kong Baptist University (BNBU), advised by [A.P. Donglong CHEN](https://staff.uic.edu.cn/donglongchen/en), within Guangdong Provincial/Zhuhai Key Laboratory of Interdisciplinary Research and Application for Data Science. I am also a teacher (Teaching and Research Position/Research Assistant) in [Prof. Wenbin Cheng](https://jsjxy.zsc.edu.cn/szdw/szdwzg/1dje8dg8bfln5.shtml)'s postgraduate research team at University of Electronic Science and Technology of China, Zhongshan Institute. I have published over 20 papers since 2022, including 3 papers from the first quartile journals of the Chinese Academy of Sciences. I have authored 9 highly cited papers according to the Essential Science Indicators (ESI), and 3 hot paper according to the ESI. I have served as a peer reviewer for prestigious journals including IEEE TIFS, IEEE TCSVT, IEEE TSMC-S, IEEE TCAS-I, IEEE TBD, IEEE TII, IEEE IOTJ, ACM TOMM, etc., as well as for publications by  academic publishers such as Elsevier, Springer Nature, Wiley, IOP Publishing, Taylor&Francis, MDPI, etc.
