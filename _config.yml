@@ -12,9 +12,9 @@ title                    : "Yiting Lin's Homepage"
 title_separator          : "-"
 name                     : &name "Yiting Lin"
 description              : &description "personal description"
-url                      : https://donotwanttogrowup.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://YitingLin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "donotwanttogrowup/donotwanttogrowup.github.io"
+repository               : "donotwanttogrowup/YitingLin.github.io"
 google_scholar_stats_use_cdn : True
 
 # google analytics
