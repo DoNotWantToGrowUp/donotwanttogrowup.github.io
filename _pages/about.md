@@ -104,3 +104,10 @@ My current research focuses on the practical problems faced by the intersection 
 * **Computer Academy of Guangdong Outstanding Research Papers**-Third Prize-2023
 * **Guangdong Cyberspace Security Outstanding Research Papers**-Third Prize-2023
 * **The Guangdong Province Cybersecurity Industry Science and Technology Award**-Second Prize-2022 
+
+---
+
+## Student Supervision
+Alumni (University of Electronic Science and Technology of China):
+Lei Zhang, Mphil 2022.9-2025.8, Jobs at Kuaishou. (Under Prof. Wenbin Cheng)
+Jiahe Shen, Mphil 2022.9-2025.8, Jobs at Meituan. (Under Prof. Wenbin Cheng)
