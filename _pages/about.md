@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yiting Lin"
+title: "Yiting Lin's Homepage"
 excerpt: ""
 author_profile: true
 redirect_from: 
