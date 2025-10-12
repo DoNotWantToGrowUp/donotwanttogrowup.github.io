@@ -109,5 +109,5 @@ My current research focuses on the practical problems faced by the intersection 
 
 ## Student Supervision
 Alumni (University of Electronic Science and Technology of China):
-Lei Zhang, Mphil 2022.9-2025.8, Jobs at Kuaishou. (Under Prof. Wenbin Cheng)
-Jiahe Shen, Mphil 2022.9-2025.8, Jobs at Meituan. (Under Prof. Wenbin Cheng)
+* Lei Zhang, Mphil 2022.9-2025.8, Jobs at Kuaishou. (Under Prof. Wenbin Cheng)
+* Jiahe Shen, Mphil 2022.9-2025.8, Jobs at Meituan. (Under Prof. Wenbin Cheng)
