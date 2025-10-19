@@ -26,7 +26,7 @@ redirect_from:
 **I welcome all kinds of academic exchanges!**
 
 Here is **Yiting Lin（林一挺）**.
-I am currently a research assistant at Beijing Normal-Hong Kong Baptist University (BNBU), advised by [A.P. Donglong CHEN](https://staff.uic.edu.cn/donglongchen/en), within Guangdong Provincial/Zhuhai Key Laboratory of Interdisciplinary Research and Application for Data Science. I am also a PI (Teaching and Research Position/Research Assistant) in [Prof. Wenbin Cheng](https://jsjxy.zsc.edu.cn/szdw/szdwzg/1dje8dg8bfln5.shtml)'s postgraduate research team at University of Electronic Science and Technology of China, Zhongshan Institute. I have published over 20 papers since 2022, including 3 papers from the first quartile journals of the Chinese Academy of Sciences. I have authored 9 highly cited papers according to the Essential Science Indicators (ESI), and 3 hot paper according to the ESI. I have served as a peer reviewer for prestigious journals including IEEE TIFS, IEEE TCSVT, IEEE TSMC-S, IEEE TCAS-I, IEEE TBD, IEEE TII, IEEE IOTJ, ACM TOMM, etc., as well as for publications by  academic publishers such as Elsevier, Springer Nature, Wiley, IOP Publishing, Taylor&Francis, MDPI, etc.
+I am currently a research assistant at Beijing Normal-Hong Kong Baptist University (BNBU), advised by [A.P. Donglong CHEN](https://staff.uic.edu.cn/donglongchen/en), within Guangdong Provincial/Zhuhai Key Laboratory of Interdisciplinary Research and Application for Data Science. I am also a PI (Teaching and Research Position/Research Assistant) in [Prof. Wenbin Cheng](https://jsjxy.zsc.edu.cn/szdw/szdwzg/1dje8dg8bfln5.shtml)'s postgraduate research team at University of Electronic Science and Technology of China, Zhongshan Institute. I have published over 20 papers since 2022, including 3 papers from the first quartile journals of the Chinese Academy of Sciences. I have authored 9 highly cited papers according to the Essential Science Indicators (ESI), and 3 hot paper according to the ESI. I have served as a peer reviewer for prestigious journals including IEEE TIFS, IEEE TDSC,IEEE TCSVT, IEEE TCYB, IEEE TSMC-S, IEEE TCAS-I, IEEE TCAS-II, IEEE TBD, IEEE TII, IEEE TCE, ACM TOMM, etc., as well as for publications by  academic publishers such as Elsevier, Springer Nature, Wiley, IOP Publishing, Taylor&Francis, MDPI, etc.
 
 If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - YitingLin [at] ieee.org
 
@@ -62,7 +62,22 @@ My current research focuses on the practical problems faced by the intersection 
 
 ## Academic and Social Service
 * **Reviewer** of the following journals
+   * IEEE Transactions on Dependable and Secure Computing  
+   * IEEE Transactions on Information Forensics and Security
+   * IEEE Transactions on Big Data
+   * IEEE Transactions on Circuits and Systems for Video Technology
+   * IEEE Transactions on Industrial Informatics
+   * IEEE Transactions on Systems, Man, and Cybernetics: Systems
+   * IEEE Transactions on Multimedia
+   * IEEE Transactions on Industrial Electronics
+   * IEEE Transactions on Circuits and Systems I: Regular Papers
+   * IEEE Transactions on Circuits and Systems II: Express Briefs
+   * IEEE Transactions on Cybernetics
+   * IEEE Transactions on Consumer Electronics
    * ACM Transactions on Multimedia Computing, Communications, and Applications
+   * IEEE Internet of Things Journal
+   * IEEE MultiMedia
+   ---
    * Ain Shams Engineering Journal [(Certificates)](http://www.yitinglin.top/Certificates/Certificate_ASEJ_Recognised.pdf)
    * Alexandria Engineering Journal [(Certificates)](http://www.yitinglin.top/Certificates/Certificate_AEJ_Recognised.pdf)
    * Applied Artificial Intelligence
@@ -73,13 +88,6 @@ My current research focuses on the practical problems faced by the intersection 
    * Engineering applications of artificial intelligence [(Certificates)](http://www.yitinglin.top/Certificates/Certificate_EAAI_Recognised.pdf)
    * Expert systems with applications 
    * Information Sciences [(Certificates)](http://www.yitinglin.top/Certificates/Certificate_INS_Recognised.pdf)
-   * IEEE Internet of Things Journal
-   * IEEE Transactions on Big Data
-   * IEEE Transactions on Circuits and Systems for Video Technology
-   * IEEE Transactions on Information Forensics and Security
-   * IEEE Transactions on Industrial Informatics
-   * IEEE Transactions on Systems, Man, and Cybernetics: Systems
-   * IEEE MultiMedia
    * IET information security
    * Image and Vision Computing
    * International journal of bifurcation and chaos in applied sciences and engineering
