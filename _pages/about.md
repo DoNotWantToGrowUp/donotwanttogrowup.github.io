@@ -93,6 +93,8 @@ Alumni (University of Electronic Science and Technology of China):
 * Xinyu Yang, Mphil 2023.9-2026.8, Jobs at Beijing Kuaishou Technology Co., Ltd.​. (Under Prof. Wenbin Cheng)
 
 ## 📢 NEWS
+[38] Jing Wang; Chi Duan; Pengbo Liu; Yong Zhang; Wenjun Zeng; Donglong Chen; Yiting Lin. Layer-Coupled Co-Evolutionary Cellular Automata: A Cross-Plane Diffusion Approach for Chaotic Image Privacy Protection. Expert Systems with Applications 2026, 133795. https://doi.org/10.1016/j.eswa.2026.133795.
+
 [37] Jie Zhang; Wenjie Zhou; Mingxu Wang; Yiting Lin. 3D-TCM-Driven Bit-Level Image Encryption via S-Box Feedback Algorithm. Entropy 2026, 28 (5), 535. https://doi.org/10.3390/e28050535.
 
 [36] Yunan Wei; Shengnan Zhao; Chuan Zhao; Yiting Lin; Donglong Chen; Minghao Zhao. Less Is More: Clustering with Adaptive Probability for Heterogeneous Federated Learning. Knowledge-Based Systems 2026, 116127. https://doi.org/10.1016/j.knosys.2026.116127.
