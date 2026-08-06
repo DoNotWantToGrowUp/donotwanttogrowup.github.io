@@ -16,7 +16,7 @@
 <div class="masthead">
   <div class="masthead__inner-wrap">
     {% if language_url %}
-      <a class="language-switch" href="{{ base_path }}{{ language_url }}" lang="{% if page.lang == 'zh' %}en{% else %}zh-CN{% endif %}">{{ language_label }}</a>
+      <a class="language-switch" href="{{ language_url | relative_url }}" lang="{% if page.lang == 'zh' %}en{% else %}zh-CN{% endif %}">{{ language_label }}</a>
     {% endif %}
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
