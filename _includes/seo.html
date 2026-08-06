@@ -1,5 +1,11 @@
 {% include base_path %}
 
+{% assign page_locale = page.locale | default: site.locale %}
+{% assign display_site_title = site.title %}
+{% if page.lang == "zh" %}
+  {% assign display_site_title = "林一挺的主页" %}
+{% endif %}
+
 <!-- begin SEO -->
 {% if site.url %}
   {% assign seo_url = site.url | append: site.baseurl %}
@@ -7,7 +13,7 @@
 {% assign seo_url = seo_url | default: site.github.url %}
 
 {% if page.title %}
-  {% assign seo_title = page.title | append: " " | append: site.title_separator | append: " " | append: site.title %}
+  {% assign seo_title = page.title | append: " " | append: site.title_separator | append: " " | append: display_site_title %}
 {% endif %}
 
 {% if seo_title %}
@@ -18,7 +24,7 @@
   {% assign canonical_url = page.url | replace: "index.html", "" | prepend: site.url %}
 {% endif %}
 
-<title>{{ seo_title | default: site.title }}{% if paginator %}{% unless paginator.page == 1 %} {{ site.title_separator }} {{ site.data.ui-text[site.locale].page | default: "Page" }} {{ paginator.page }}{% endunless %}{% endif %}</title>
+<title>{{ seo_title | default: display_site_title }}{% if paginator %}{% unless paginator.page == 1 %} {{ site.title_separator }} {{ site.data.ui-text[page_locale].page | default: "Page" }} {{ paginator.page }}{% endunless %}{% endif %}</title>
 
 {% assign seo_description = page.description | default: page.excerpt | default: site.description %}
 {% if seo_description %}
@@ -39,9 +45,9 @@
   {% assign seo_author_twitter = seo_author_twitter | replace: "@", "" %}
 {% endif %}
 
-<meta property="og:locale" content="{{ site.locale | default: "en" }}">
-<meta property="og:site_name" content="{{ site.title }}">
-<meta property="og:title" content="{{ page.title | default: site.title | markdownify | strip_html | strip_newlines | escape_once }}">
+<meta property="og:locale" content="{{ page_locale | default: "en" }}">
+<meta property="og:site_name" content="{{ display_site_title }}">
+<meta property="og:title" content="{{ page.title | default: display_site_title | markdownify | strip_html | strip_newlines | escape_once }}">
 
 {% if seo_url %}
   <link rel="canonical" href="{{ page.url | prepend: seo_url | replace: "/index.html", "/" }}">
@@ -54,7 +60,7 @@
 
 {% if site.twitter.username %}
   <meta name="twitter:site" content="@{{ site.twitter.username | replace: "@", "" }}">
-  <meta name="twitter:title" content="{{ page.title | default: site.title | markdownify | strip_html | strip_newlines | escape_once }}">
+  <meta name="twitter:title" content="{{ page.title | default: display_site_title | markdownify | strip_html | strip_newlines | escape_once }}">
   <meta name="twitter:description" content="{{ seo_description }}">
   <meta name="twitter:url" content="{{ canonical_url }}">
 

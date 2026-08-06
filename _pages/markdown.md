@@ -2,6 +2,7 @@
 permalink: /markdown/
 title: "Guide"
 author_profile: true
+alternate_url: /zh/guide/
 redirect_from: 
   - /md/
   - /markdown.html

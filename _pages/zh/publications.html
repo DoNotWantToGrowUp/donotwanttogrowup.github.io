@@ -1,0 +1,33 @@
+---
+layout: archive
+title: "发表论文"
+permalink: /zh/publications/
+author_profile: true
+lang: zh
+locale: zh-CN
+alternate_url: /publications/
+---
+
+{% if site.author.googlescholar %}
+  <div class="wordwrap">也可在 <a href="{{ site.author.googlescholar }}">Google Scholar 个人主页</a> 查看我的论文。</div>
+{% endif %}
+
+{% include base_path %}
+
+{% assign categories = "manuscripts,conferences,books" | split: "," %}
+{% for category_name in categories %}
+  {% case category_name %}
+    {% when "manuscripts" %}{% assign category_title = "期刊论文" %}
+    {% when "conferences" %}{% assign category_title = "会议论文" %}
+    {% when "books" %}{% assign category_title = "专著" %}
+  {% endcase %}
+  {% assign title_shown = false %}
+  {% for post in site.publications reversed %}
+    {% if post.category != category_name %}{% continue %}{% endif %}
+    {% unless title_shown %}
+      <h2>{{ category_title }}</h2><hr />
+      {% assign title_shown = true %}
+    {% endunless %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endfor %}

@@ -3,6 +3,7 @@ permalink: /
 title: "Yiting Lin's Homepage"
 excerpt: ""
 author_profile: true
+alternate_url: /zh/
 redirect_from: 
   - /about/
   - /about.html

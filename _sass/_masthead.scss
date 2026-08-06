@@ -19,6 +19,7 @@
   &__inner-wrap {
     @include container;
     @include clearfix;
+    position: relative;
     padding: 1em 1em 1em;
     font-family: $sans-serif-narrow;
 
@@ -37,12 +38,35 @@
 }
 
 .masthead__menu {
+  /* Reserve space for the language button at the far right of the header. */
+  padding-right: 5rem;
 
   ul {
     margin: 0;
     padding: 0;
     clear: both;
     list-style-type: none;
+  }
+}
+
+.language-switch {
+  position: absolute;
+  top: 50%;
+  right: 1em;
+  z-index: 11;
+  padding: 0.25em 0.6em;
+  transform: translateY(-50%);
+  color: $masthead-link-color;
+  font-size: $type-size-6;
+  font-weight: 700;
+  line-height: 1.4;
+  border: 1px solid $border-color;
+  border-radius: $border-radius;
+  background: $background-color;
+
+  &:hover {
+    color: $masthead-link-color-hover;
+    text-decoration: none;
   }
 }
 
